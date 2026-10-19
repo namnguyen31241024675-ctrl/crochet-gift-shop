@@ -22,13 +22,16 @@ Xem danh mục/tìm kiếm/lọc sản phẩm • Tài khoản • Giỏ hàng v
 Chi tiết xem [REQUIREMENTS.md](REQUIREMENTS.md).
 
 ## 4. Thành viên
-| STT | Họ tên | MSSV | Vai trò | GitHub |
+| STT | Họ tên | Vai trò | Trách nhiệm chính | GitHub |
 |---|---|---|---|---|
-| 1 | TODO | TODO | Trưởng nhóm / BA | TODO |
-| 2 | TODO | TODO | UI/UX | TODO |
-| 3 | TODO | TODO | Frontend | TODO |
-| 4 | TODO | TODO | Backend / Database | TODO |
-| 5 | TODO | TODO | QA / Integration | TODO |
+| 1 | Nguyễn Quang Đức | Trưởng nhóm / BA | Tiến độ, yêu cầu, GitHub Issues, điều phối | TODO |
+| 2 | Trần Quốc Bảo | UI/UX | Khảo sát giao diện, thiết kế, chuẩn bị tài nguyên | TODO |
+| 3 | Đỗ Trọng Khanh | Frontend | Trang chủ, danh mục, chi tiết sản phẩm, giỏ hàng | TODO |
+| 4 | Đặng Đình Quyến | Frontend | Giao diện tạo giỏ quà, đặt làm, trang quản trị | TODO |
+| 5 | Nguyễn Thanh Nam | Backend / Database | Thiết kế CSDL, API sản phẩm, tài khoản, phân quyền | TODO |
+| 6 | Nguyễn Anh Tuấn | Backend | Đơn hàng, thanh toán sandbox, vận chuyển, voucher | TODO |
+| 7 | Nguyễn Đình Châu | QA / Integration | Kế hoạch kiểm thử, tích hợp, tài liệu | TODO |
+
 
 (Thêm hoặc bớt dòng theo số thành viên thực tế; vai trò có thể gộp.)
 
